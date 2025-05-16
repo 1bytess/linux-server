@@ -2,9 +2,9 @@
 
 ## Table of Content
 
-- [Instalation](##Instalation)
-- [Configuration](##Configuration)
-- [Initial Setup](##Initial Setup)
+- [Instalation]
+- [Configuration]
+- [Initial Setup]
 
 ## Installation
 
@@ -164,7 +164,7 @@ lastly, restart container
 docker restart nextcloud
 ```
 
-## NextCloud Initial Setup
+## Initial Setup
 
 ![NextCloud Admin Account Creation](.attachments.847/Create-Nextcloud-admin-account-1024x723.jpg.jpg)
 
