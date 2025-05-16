@@ -166,8 +166,6 @@ docker restart nextcloud
 
 ## Initial Setup
 
-![NextCloud Admin Account Creation](.attachments.847/Create-Nextcloud-admin-account-1024x723.jpg.jpg)
-
 `username`, `Password` will be used as account login and admin  
   
 `Data Folder`: Use the folder under nextcloud account under path `/path`  
